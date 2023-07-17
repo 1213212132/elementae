@@ -1,0 +1,13 @@
+$size-pc : 1440px;
+$size-gap : 30px;
+
+
+@mixin inner () {
+
+
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 $size-gap/2;
+
+
+}
